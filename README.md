@@ -1,5 +1,5 @@
 # DU-GAN
-Single  Image De-Raining With Double U-net  Generative Adversarial Network
+Single  Image De-Raining With Dual U-net  Generative Adversarial Network
 
 ## Installation:
 1. Python 3.6
